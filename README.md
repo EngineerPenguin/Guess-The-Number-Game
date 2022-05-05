@@ -1,2 +1,4 @@
 # GussTheNumber
 Simple guess the number game
+using a random number, while loop and some if statments to 
+ask the user to guess the number with a limit of 6 guess. 
